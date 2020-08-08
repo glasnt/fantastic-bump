@@ -1,0 +1,2 @@
+include versioneer.py
+include fantastic-bump/_version.py
