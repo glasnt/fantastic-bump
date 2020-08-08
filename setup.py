@@ -6,7 +6,7 @@ import versioneer
 
 setup(
     name="fantastic-bump",
-    description="fantastic-bump"
+    description="fantastic-bump",
     version=versioneer.get_version(),
     cmdclass=versioneer.get_cmdclass(), 
     long_description="fantastic-bump",
